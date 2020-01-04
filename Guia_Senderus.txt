@@ -1,0 +1,42 @@
+Intro:
+
+Satanic Remplazus Scamming, es un generador de millones de posibilidades de scam para
+cualquier plataforma, sin embargo tu, debes poner lo que ira, en este caso solo el 
+texto e imagen, que te pida el tool, tu deberas ejecutar la plantilla antes de 
+ejecutar el tool, para saber donde va cada cosa, todo ya tiene sus IDs, solo debes 
+insertar y listo la herramineta hara lo demas. 
+
+Esta herramienta le agrege el borrado de metadata, ya que las fotos para hacer "bypass
+spam" recomiendo utilizar url en las fotos que no esten previamente registradas en listas
+negras de google. Por ejemplo, si usas una foto que este en la web, y la url 
+en los metadatos y tanto en la url diga PayPal, ve olvidando enviar las cosas, pues...
+Te van a identificar dentro de 24h aproximadamente y tu gmail, ip, dns, etc... Estara 
+en la lista negra. La verdad es que este de Satanic Remplazus Scamming, es solo una de
+las fases para bypass, habran mas actualizaciones, posiblemnete de pago. Donde habran 
+metodos de anti-spam para enviar miles de miles de emails y sms. Ya que en Satanic Senderus
+Mailer, estare agregandole el envio de SMS por medio de SMTP de Gmail, es algo, que... 
+No sabia que se podia hacer, pero si se puede. Y es muy interesante. 
+
+Lo que hace la herramienta es alojar estas fotos al URL de ngrok que hallas tomado
+y las subira. Quiero decirte que esto no es anonimo, pues... Ngrok sabe tu iP, cuando
+haces todo. Asi que... Mas luego subire otro metodo para usar ngrok u otro servicio,
+pero manteniendo anonimato.
+
+
+Requisitos:
+Para usar Satanic Remplazus Scamming debemos tener ngrok, o un servidor hosting
+si quieren hacer el proceso manual, ademas necesitaras exiftool, logicamente 
+necesitaras mi tool, y las plantillas, en este caso solo tendran 1. He dejado los 
+comandos de exiftool, por si las moscas. Y deben crear un folder por recomendacion
+de las fotos que van a utilizar. Si usan android, para que se les haga comodo,
+les invito a usar la aplicacion "Acceso directo de Pantalla Dividida", es para dividir
+la pantalla del dispositivo en dos. Es muy util, para poder trabajar con el scam.
+
+Instalacion de ExifTool:
+https://www.youtube.com/watch?v=dAJ2jn0Flp0
+
+ExifTool .exe oficial:
+https://exiftool.org/
+
+¿Como hacerlo manualmente?:
+https://caminosdigitales.es/manipular-metadatos-de-archivos/

@@ -1,0 +1,13 @@
+exiftool ruta\folder\imagen.extension : Muestra todos los metadatos.
+exiftool -all= ruta\folder\imagen.extension : Elimina todos los metadatos.
+exiftool -artist="Francisco Goya" -copyright="2016" ruta\folder\imagen.extension : Crea metadatos que hallas insertado.
+exiftool -copyright="Fer" imagen1.jpg imagen2.jpg imagen3.jpg : Modifica o incrusta los metadatos en multiples imagenes. (recomiendo poner toda la ruta)
+
+Etiquetas:
+1. -Comment= "" : Comentarios
+2. -Artist= "" : Artista
+3. -Copyright= "" : Derechos de Autor
+4. -CopyrightNotice= "" : Derechos de autor y fecha
+5. -gpslatitude= "" : Latitud GPS de la foto
+6. -gpslongitude= "" : Logitud GPS de la foto
+7. -gpslatituderef= L : Donde L representa Norte, Sur, Este, Oeste. (Abrevidados)

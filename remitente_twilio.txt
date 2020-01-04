@@ -1,0 +1,5 @@
+Sintaxis:
+
++prefijo<numero
+
++9999999999999
